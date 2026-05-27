@@ -37,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0219-contains-duplicate-ii) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0067-add-binary) |
 ## String Matching
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0067-add-binary) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -64,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

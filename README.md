@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0069-sqrtx) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

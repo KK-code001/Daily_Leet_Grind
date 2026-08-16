@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0496-next-greater-element-i) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2029-stone-game-ix](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2029-stone-game-ix) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0496-next-greater-element-i) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0094-binary-tree-inorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0496-next-greater-element-i) |
 | [2390-removing-stars-from-a-string](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0974-subarray-sums-divisible-by-k) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

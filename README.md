@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0219-contains-duplicate-ii) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |

@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0283-move-zeroes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2029-stone-game-ix](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2029-stone-game-ix) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0229-majority-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0229-majority-element-ii) |
 | [2029-stone-game-ix](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -163,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2029-stone-game-ix) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

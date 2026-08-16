@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0796-rotate-string) |
+| [2390-removing-stars-from-a-string](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0067-add-binary) |
+| [2390-removing-stars-from-a-string](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0094-binary-tree-inorder-traversal) |
+| [2390-removing-stars-from-a-string](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |

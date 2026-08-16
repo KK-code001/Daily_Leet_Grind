@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0283-move-zeroes) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2029-stone-game-ix](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2029-stone-game-ix) |
 | [2460-apply-operations-to-an-array](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2460-apply-operations-to-an-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0229-majority-element-ii) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0229-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0392-is-subsequence) |
+| [2460-apply-operations-to-an-array](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0283-move-zeroes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2460-apply-operations-to-an-array](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0067-add-binary) |
 | [2390-removing-stars-from-a-string](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2390-removing-stars-from-a-string) |
+| [2460-apply-operations-to-an-array](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |

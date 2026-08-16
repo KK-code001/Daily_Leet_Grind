@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0283-move-zeroes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2029-stone-game-ix](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2029-stone-game-ix) |
 | [2460-apply-operations-to-an-array](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0069-sqrtx) |
+| [2029-stone-game-ix](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2029-stone-game-ix) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -137,4 +139,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->

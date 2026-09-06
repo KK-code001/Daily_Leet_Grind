@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0392-is-subsequence) |
 | [2460-apply-operations-to-an-array](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2460-apply-operations-to-an-array) |
@@ -33,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0496-next-greater-element-i) |
 | [2390-removing-stars-from-a-string](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2390-removing-stars-from-a-string) |
 ## Tree

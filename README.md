@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0876-middle-of-the-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |

@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0392-is-subsequence) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0219-contains-duplicate-ii) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0219-contains-duplicate-ii) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0229-majority-element-ii) |
 ## Quicksort

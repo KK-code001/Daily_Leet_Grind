@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0283-move-zeroes) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0796-rotate-string) |
 | [2390-removing-stars-from-a-string](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2390-removing-stars-from-a-string) |

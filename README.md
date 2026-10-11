@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0067-add-binary) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
@@ -201,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0141-linked-list-cycle) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

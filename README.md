@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/0069-sqrtx) |
 | [2029-stone-game-ix](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2029-stone-game-ix) |
+| [2235-add-two-integers](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KK-code001/Daily_Leet_Grind/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
